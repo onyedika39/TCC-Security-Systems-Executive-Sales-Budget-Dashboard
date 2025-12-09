@@ -1,4 +1,4 @@
-# **TCC Security Systems — Executive Sales & Budget Dashboard (Excel)**
+# **TCC Security Systems — Executive Sales & Budget Dashboard**
 
 ## **Overview**
 This project presents an executive-level **Excel dashboard** for **TCC Security Systems**, built to provide a clear, decision-ready view of **potential deal size, security budgets, product demand, urgency levels, sales stages, and geographic performance** across multiple banks and countries.  
@@ -121,12 +121,12 @@ This improves alignment between sales strategy and market opportunity.
 
 ## **Files**
 - **TCC_Security_Systems_Dashboard.xlsx**  
-- **images/tcc-security-dashboard.png**
+- **tcc-security-dashboard.png**
 
 ---
 
 ## **Preview**
-![TCC Security Systems Dashboard](images/tcc-security-dashboard.png)
+![TCC Security Systems Dashboard](https://github.com/onyedika39/TCC-Security-Systems-Executive-Sales-Budget-Dashboard/blob/main/Tcc%20dashboard.png)
 
 ---
 
@@ -150,6 +150,3 @@ This improves alignment between sales strategy and market opportunity.
 - Include a short **Data Dictionary** sheet for stakeholder clarity.
 
 ---
-
-## **Contact**
-If you'd like to discuss this project, collaboration, or data analyst opportunities, feel free to connect with me on LinkedIn.
