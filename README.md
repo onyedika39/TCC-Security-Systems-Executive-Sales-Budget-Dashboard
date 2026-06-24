@@ -2,6 +2,10 @@
 
 Excel dashboard analyzing sales pipeline, deal size, budget, urgency, and lead prioritization for a security systems business.
 
+## Project Type
+
+Data analytics and business intelligence portfolio project.
+
 ## Objective
 
 This project is organized as a portfolio case study to show the full analysis workflow: understanding the business problem, preparing the data, exploring patterns, building the final output, and communicating insights clearly.
@@ -41,4 +45,5 @@ This project highlights business reporting, sales prioritization, and dashboard 
 ## Author
 
 Created by Michael Kenechukwu as part of a data analytics and business intelligence portfolio.
+
 
