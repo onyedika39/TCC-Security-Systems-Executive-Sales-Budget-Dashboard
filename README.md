@@ -40,4 +40,5 @@ This project highlights business reporting, sales prioritization, and dashboard 
 
 ## Author
 
-Created by Michael Kenechukwu as part of a data analytics, business intelligence, and machine learning portfolio.
+Created by Michael Kenechukwu as part of a data analytics and business intelligence portfolio.
+
